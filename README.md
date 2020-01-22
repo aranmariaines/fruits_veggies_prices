@@ -13,3 +13,5 @@ The script perform data cleaning and transformation and outputs a csv with all t
 ### Analysis
 analysis_fruits.ipynb and analysis_vegetables.ipynb read csv with all the fruits and vegetable prices per day and make
 tables and plots.
+
+* Icons in plots were downloaded in https://www.freepik.com/flaticon
