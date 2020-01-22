@@ -1,6 +1,6 @@
 # Analysis of fruits and vegetables prices in Mercado Central de Buenos Aires
 
-Check full report here: 
+Check full report here: [Social Data Tech](https://socialdatatech.com/cheapest-fruits-and-vegetables-per-month/)
 
 ## Repo structure
 ### Getting data
@@ -13,5 +13,7 @@ The script perform data cleaning and transformation and outputs a csv with all t
 ### Analysis
 analysis_fruits.ipynb and analysis_vegetables.ipynb read csv with all the fruits and vegetable prices per day and make
 tables and plots.
+
+Inflation: To make the prices comparable across the time and isolate them from inflation, the daily price was converted to USD applying the official exchange rate for each day.
 
 * Icons in plots were downloaded in https://www.freepik.com/flaticon
